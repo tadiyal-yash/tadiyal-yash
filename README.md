@@ -1,3 +1,3 @@
 ## Hello World.
 
-I'm a Generative AI/ML Engineer. I share the cool stuff I learn in the field of AI.
+I'm a ML Engineer. I share the stuff I learn in Generative AI, Data Science and Analytics.
